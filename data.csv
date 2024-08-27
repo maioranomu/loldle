@@ -1,0 +1,166 @@
+Name, Gender, Position, Specie, Resource, Range, Region, ReleaseYear
+Aatrox,Male,Top,Darkin,Empty,Melee,Shurima,2013
+Ahri,Female,Mid,Vastaya,Mana,Ranged,Ionia,2011
+Akali,Female,Mid,Human,Energy,Melee,Ionia,2010
+Akshan,Male,Mid,Human,Mana,Ranged,Shurima,2021
+Alistar,Male,Support,Minotaur,Mana,Melee,Runeterra,2009
+Amumu,Male,Jungle,Yordle,Mana,Melee,Shurima,2009
+Anivia,Female,Mid,God,Mana,Ranged,Freljord,2009
+Annie,Female,Mid,Human,Mana,Ranged,Noxus,2009
+Aphelios,Male,ADC,Human,Mana,Ranged,Targon,2019
+Ashe,Female,ADC,Human,Mana,Ranged,Freljord,2009
+Aurelion Sol,Male,Mid,God,Mana,Ranged,Targon,2016
+Azir,Male,Mid,Ascended,Mana,Ranged,Shurima,2014
+Bard,Male,Support,Celestial,Mana,Ranged,Targon,2015
+Bel'Veth,Female,Jungle,Voidborn,Empty,Melee,Void,2022
+Blitzcrank,Male,Support,Automation,Mana,Melee,Zaun,2009
+Brand,Male,Mid,Human,Mana,Ranged,Freljord,2011
+Braum,Male,Support,Human,Mana,Melee,Freljord,2014
+Caitlyn,Female,ADC,Human,Mana,Ranged,Piltover,2011
+Camille,Female,Top,Cyborg,Mana,Melee,Piltover,2016
+Cassiopeia,Female,Mid,Human,Mana,Ranged,Noxus,2010
+Cho'Gath,Male,Top,Voidborn,Mana,Melee,Void,2009
+Corki,Male,ADC,Yordle,Mana,Ranged,Bandle City,2009
+Darius,Male,Top,Human,Mana,Melee,Noxus,2012
+Diana,Female,Mid,Human,Mana,Melee,Targon,2012
+Dr. Mundo,Male,Top,Undead,Health,Melee,Zaun,2009
+Draven,Male,ADC,Human,Mana,Ranged,Noxus,2012
+Ekko,Male,Mid,Human,Mana,Melee,Zaun,2015
+Elise,Female,Jungle,Altered,Mana,Ranged,Noxus,2012
+Evelynn,Female,Jungle,Demon,Empty,Melee,Runeterra,2009
+Ezreal,Male,ADC,Human,Mana,Ranged,Piltover,2010
+Fiddlesticks,Male,Jungle,Demon,Mana,Melee,Runeterra,2009
+Fiora,Female,Top,Human,Mana,Melee,Demacia,2012
+Fizz,Male,Mid,Yordle,Mana,Melee,Bilgewater,2011
+Galio,Male,Mid,Golem,Mana,Melee,Demacia,2010
+Gangplank,Male,Top,Human,Mana,Melee,Bilgewater,2009
+Garen,Male,Top,Human,Empty,Melee,Demacia,2009
+Gnar,Male,Top,Yordle,Rage,Melee,Bandle City,2014
+Gragas,Male,Jungle,Human,Mana,Melee,Freljord,2010
+Graves,Male,Jungle,Human,Mana,Ranged,Bilgewater,2011
+Gwen,Female,Top,Golem,Mana,Melee,Shadow Isles,2021
+Hecarim,Male,Jungle,Undead,Mana,Melee,Shadow Isles,2012
+Heimerdinger,Male,Mid,Yordle,Mana,Ranged,Bandle City,2009
+Illaoi,Female,Top,Human,Mana,Melee,Bilgewater,2015
+Irelia,Female,Top,Human,Mana,Melee,Ionia,2010
+Ivern,Male,Jungle,Tree,Mana,Ranged,Ionia,2016
+Janna,Female,Support,Elemental,Mana,Ranged,Zaun,2009
+Jarvan IV,Male,Jungle,Human,Mana,Melee,Demacia,2011
+Jax,Male,Top,Unknown,Mana,Melee,Runeterra,2009
+Jayce,Male,Mid,Human,Mana,Ranged,Piltover,2012
+Jhin,Male,ADC,Human,Mana,Ranged,Ionia,2016
+Jinx,Female,ADC,Human,Mana,Ranged,Zaun,2013
+K'Sante,Male,Top,Human,Grit,Melee,Shurima,2022
+Kai'Sa,Female,ADC,Human,Mana,Ranged,Void,2018
+Kalista,Female,ADC,Undead,Mana,Ranged,Shadow Isles,2014
+Karma,Female,Mid,Human,Mana,Ranged,Ionia,2009
+Karthus,Male,Mid,Undead,Mana,Ranged,Shadow Isles,2009
+Kassadin,Male,Mid,Human,Mana,Melee,Void,2009
+Katarina,Female,Mid,Human,Empty,Melee,Noxus,2009
+Kayle,Female,Top,Aspect,Mana,Melee,Demacia,2009
+Kayn,Male,Jungle,Human,Mana,Melee,Ionia,2017
+Kennen,Male,Top,Yordle,Energy,Ranged,Ionia,2010
+Kha'Zix,Male,Jungle,Voidborn,Mana,Melee,Void,2012
+Kindred,Female,Jungle,Eternal,Mana,Ranged,Runeterra,2015
+Kled,Male,Top,Yordle,Rage,Melee,Noxus,2016
+Kog'Maw,Male,ADC,Voidborn,Mana,Ranged,Void,2010
+LeBlanc,Female,Mid,Human,Mana,Ranged,Noxus,2010
+Lee Sin,Male,Jungle,Human,Energy,Melee,Ionia,2011
+Leona,Female,Support,Human,Mana,Melee,Targon,2011
+Lillia,Female,Jungle,Spirit,Mana,Melee,Ionia,2020
+Lissandra,Female,Mid,Iceborn,Mana,Ranged,Freljord,2013
+Lucian,Male,ADC,Human,Mana,Ranged,Demacia,2013
+Lulu,Female,Support,Yordle,Mana,Ranged,Bandle City,2012
+Lux,Female,Mid,Human,Mana,Ranged,Demacia,2010
+Malphite,Male,Top,Golem,Mana,Melee,Ixtal,2009
+Malzahar,Male,Mid,Altered,Mana,Ranged,Void,2010
+Maokai,Male,Top,Tree,Mana,Melee,Shadow Isles,2011
+Master Yi,Male,Jungle,Human,Mana,Melee,Ionia,2009
+Milio,Male,Support,Human,Mana,Ranged,Ixtal,2023
+Miss Fortune,Female,ADC,Human,Mana,Ranged,Bilgewater,2010
+Mordekaiser,Male,Top,Undead,Shield,Melee,Noxus,2010
+Morgana,Female,Mid,Aspect/Mortal,Mana,Ranged,Demacia,2009
+Naafiri,Female,Mid,Darkin,Packmate,Melee,Shurima,2023
+Nami,Female,Support,Vastaya,Mana,Ranged,Ionia,2012
+Nasus,Male,Top,Ascended,Mana,Melee,Shurima,2009
+Nautilus,Male,Support,Undead,Mana,Melee,Bilgewater,2012
+Neeko,Female,Mid,Vastaya,Mana,Ranged,Ixtal,2018
+Nidalee,Female,Jungle,Human,Mana,Melee/Ixtali,Ixtal,2009
+Nilah,Female,ADC,Human,Joy,Ranged,Ionia,2022
+Nocturne,Male,Jungle,Shadow,Mana,Melee,Runeterra,2011
+Nunu & Willump,Male,Jungle,Human/Yeti,Mana,Melee,Freljord,2009
+Olaf,Male,Top,Human,Mana,Melee,Freljord,2010
+Orianna,Female,Mid,Robot,Mana,Ranged,Piltover,2011
+Ornn,Male,Top,God,Mana,Melee,Freljord,2017
+Pantheon,Male,Top,Aspect,Mana,Melee,Targon,2009
+Poppy,Female,Top,Yordle,Mana,Melee,Demacia,2010
+Pyke,Male,Support,Undead,Health,Ranged,Bilgewater,2018
+Qiyana,Female,Mid,Human,Mana,Melee,Ixtal,2019
+Quinn,Female,Top,Human,Mana,Ranged,Demacia,2013
+Rakan,Male,Support,Vastaya,Mana,Ranged,Ionia,2017
+Rammus,Male,Jungle,Unknown,Mana,Melee,Shurima,2009
+Rek'Sai,Female,Jungle,Voidborn,Fury,Melee,Void, 2014
+Rell,Female,Support,Human,Mana,Melee,Runeterra,2023
+Renata Glasc,Female,Support,Human,Mana,Ranged,Zaun,2023
+Renekton,Male,Top,Ascended,Mana,Melee,Shurima,2011
+Rengar,Male,Jungle,Animal,Mana,Melee,Shurima,2012
+Riven,Female,Top,Human,Mana,Melee,Ionia,2012
+Rumble,Male,Jungle,Yordle,Mana,Melee,Bandle City,2011
+Ryze,Male,Mid,Altered,Mana,Ranged,Runeterra,2009
+Samira,Female,ADC,Human,Mana,Ranged,Shurima,2020
+Sejuani,Female,Jungle,Human,Mana,Melee,Freljord,2012
+Senna,Female,ADC,Human,Mana,Ranged,Demacia,2019
+Seraphine,Female,Mid,Human,Mana,Ranged,Piltover,2020
+Sett,Male,Top,Vastaya,Mana,Melee,Shurima,2020
+Shaco,Male,Jungle,Demon,Mana,Melee,Runeterra,2009
+Shen,Male,Top,Human,Mana,Melee,Ionia,2010
+Shyvana,Female,Jungle,Dragon,Mana,Melee,Demacia,2012
+Singed,Male,Jungle,Human,Mana,Melee,Zaun,2009
+Sion,Male,Top,Undead,Mana,Melee,Demacia,2009
+Sivir,Female,ADC,Human,Mana,Ranged,Shurima,2012
+Skarner,Male,Jungle,Animal,Mana,Melee,Ixtal,2012
+Sona,Female,Support,Human,Mana,Ranged,Demacia,2010
+Soraka,Female,Support,God,Mana,Ranged,Ionia,2010
+Swain,Male,Mid,Human,Mana,Ranged,Noxus,2018
+Sylas,Male,Mid,Human,Mana,Melee,Demacia,2019
+Syndra,Female,Mid,Human,Mana,Ranged,Noxus,2012
+Tahm Kench,Male,Support,Demon,Mana,Melee,Runeterra,2015
+Taliyah,Female,Mid,Human,Mana,Ranged,Targon,2016
+Talon,Male,Mid,Human,Mana,Melee,Noxus,2012
+Taric,Male,Support,Aspect,Mana,Melee,Targon,2012
+Teemo,Male,Top,Yordle,Mana,Ranged,Bandle City,2009
+Thresh,Male,Support,Undead,Energy,Ranged,Bilgewater,2013
+Tristana,Female,ADC,Yordle,Mana,Ranged,Bandle City,2010
+Trundle,Male,Jungle,Troll,Mana,Melee,Freljord,2013
+Tryndamere,Male,Top,Human,Mana,Melee,Shurima,2013
+Twisted Fate,Male,Mid,Human,Mana,Ranged,Bilgewater,2010
+Twitch,Male,ADC,Animal,Mana,Ranged,Zaun,2010
+Udyr,Male,Jungle,Human,Mana,Melee,Ionia,2010
+Urgot,Male,Top,Human,Mana,Melee,Zaun,2017
+Varus,Male,ADC,Darkin,Mana,Ranged,Freljord,2012
+Vayne,Female,ADC,Human,Mana,Ranged,Demacia,2012
+Veigar,Male,Mid,Yordle,Mana,Ranged,Bandle City,2009
+Vel'Koz,Male,Mid,Voidborn,Mana,Ranged,Void,2014
+Vex,Female,Mid,Yordle,Mana,Ranged,Bandle City,2021
+Vi,Female,Jungle,Human,Mana,Melee,Zaun,2012
+Viego,Male,ADC,Undead,Mana,Ranged,Shadow Isles,2021
+Viktor,Male,Mid,Human,Mana,Ranged,Zaun,2012
+Vladimir,Male,Mid,Human,Mana,Ranged,Noxus,2012
+Volibear,Male,Top,God,Mana,Melee,Freljord,2021
+Warwick,Male,Jungle,Altered,Mana,Melee,Zaun,2009
+Wukong,Male,Top,Vastaya,Energy,Melee,Bandle City,2011
+Xayah,Female,ADC,Vastaya,Mana,Ranged,Ionia,2018
+Xerath,Male,Mid,Ascended,Mana,Ranged,Shurima,2012
+Xin Zhao,Male,Jungle,Human,Mana,Melee,Ionia,2010
+Yasuo,Male,Mid,Human,Empty,Melee,Ionia,2013
+Yone,Male,Top,Human,Empty,Melee,Ionia,2020
+Yorick,Male,Top,Undead,Mana,Melee,Shadow Isles,2013
+Yuumi,Female,Support,Animal,Mana,Ranged,Bandle City,2019
+Zac,Male,Jungle,Blob,Mana,Melee,Zaun,2013
+Zed,Male,Mid,Human,Energy,Melee,Shadow Isles,2012
+Zeri,Female,ADC,Human,Electric,Ranged,Zaun,2022
+Ziggs,Male,Mid,Yordle,Mana,Ranged,Bandle City,2012
+Zilean,Male,Mid,Human,Mana,Ranged,Ionia,2010
+Zoe,Female,Mid,Aspect,Mana,Ranged,Targon,2018
+Zyra,Female,Mid,Plant,Mana,Ranged,Shadow Isles,2012
+Smolder,Male,ADC,Dragon,Mana,Ranged,Noxus,2024
